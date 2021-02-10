@@ -1,0 +1,20 @@
+.content {
+    display: grid;
+    grid-template-areas:
+            "h h"
+            "m nb";
+    grid-template-columns: 3fr 6fr;
+}
+
+.content header {
+    text-align: center;
+    grid-area: h;
+}
+
+.menu {
+    grid-area: m;
+}
+
+.newsBlock {
+    grid-area: nb;
+}
