@@ -18,3 +18,7 @@
 .newsBlock {
     grid-area: nb;
 }
+
+.content a {
+    text-decoration: none;
+}

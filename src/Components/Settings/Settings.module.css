@@ -1,0 +1,12 @@
+.wrapper {
+    border: black solid 5px;
+    background: yellow;
+    height: 300px;
+    width: 50%;
+}
+
+.settingItems div {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+

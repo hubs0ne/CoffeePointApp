@@ -10,12 +10,12 @@ const Content = () => {
             <div className={styles.menu}>
                 Coffee:
                 <ul>
-                    <li>Americano - 80 rub.</li>
-                    <li>Cappuccino - 100 rub.</li>
-                    <li>Latte - 100 rub.</li>
-                    <li>Tea in assortment - 80 rub.</li>
-                    <li>Sugar - free</li>
-                    <li>Deserts - 80 - 160 rub.</li>
+                   <a href='/'> <li>Americano - 80 rub.</li> </a>
+                  <a href='/'>  <li>Cappuccino - 100 rub.</li> </a>
+                  <a href='/'>  <li>Latte - 100 rub.</li> </a>
+                    <a href='/'> <li>Tea in assortment - 80 rub.</li> </a>
+                    <a href='/'> <li>Sugar - free</li> </a>
+                    <a href='/'> <li>Deserts - 80 - 160 rub.</li> </a>
                 </ul>
             </div>
             <div className={styles.newsBlock}>
